@@ -1,2 +1,2 @@
 # CS329-Machine-Learning-H
-Course resources
+正在修读中`````
